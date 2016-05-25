@@ -1,0 +1,8 @@
+
+# Created by https://www.gitignore.io/api/appceleratortitanium
+
+### AppceleratorTitanium ###
+# Build folder and log file
+build/
+build.log
+logs/
